@@ -2,6 +2,8 @@
 #ifndef __GRAPHSEARCHPLANNER_HPP
 #define __GRAPHSEARCHPLANNER_HPP
 
+
+#define FMT_HEADER_ONLY
 #include <fmt/core.h>
 
 #include <cmath>
